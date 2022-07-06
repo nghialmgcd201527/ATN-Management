@@ -1,0 +1,104 @@
+th {
+    top: 40px;
+    position: sticky;
+    background-color: purple;
+    height: 30px;
+    font-family: sans-serif;
+    font-size: 20;
+}
+
+.table-heading {
+    top: 27px;
+    position: sticky;
+    height: 30px;
+}
+
+.sticky {
+    top: 75px;
+    position: sticky;
+    background-color: purple;
+}
+
+.nav-bar {
+    top: 8px;
+    position: sticky;
+    background-color: yellowgreen;
+    height: 30px;
+    font-size: large;
+    margin: 0;
+}
+
+tr {
+    height: 30px;
+}
+
+input {
+    height: 25px;
+}
+
+html {
+    background-image: url(image/toy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#signout {
+    font-family: sans-serif;
+    text-decoration-color: black;
+    text-decoration: none;
+}
+
+input[type="submit"] {
+    background-color: #ffffff;
+    display: inline-block;
+    padding: 0em 1.7em;
+    border: 0.1em solid yellowgreen;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: yellowgreen;
+    text-align: center;
+    transition: all 0.2s;
+    margin: 0;
+}
+
+input[type="submit"]:hover {
+    color: #ededed;
+    background-color: yellowgreen;
+    cursor: pointer;
+}
+
+.nav {
+    background-color: #ffffff;
+    display: inline-block;
+    padding: 0em 1.7em;
+    border: 0.1em solid yellowgreen;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: yellowgreen;
+    text-align: center;
+    transition: all 0.2s;
+    margin: 0;
+}
+
+.nav:hover {
+    color: #ededed;
+    background-color: yellowgreen;
+    cursor: pointer;
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+    background: yellowgreen;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
